@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "474030790199",
+    "project_id": "atomassignment-63955",
+    "storage_bucket": "atomassignment-63955.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474030790199:android:c240764722b93350f0d1b2",
+        "android_client_info": {
+          "package_name": "com.askyr.atomassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474030790199-0dl1l6u9gt2n6551oi70scfles1i6pbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.askyr.atomassignment",
+            "certificate_hash": "a7b91b399434dfe1becdfd03cda4ab94dc250c66"
+          }
+        },
+        {
+          "client_id": "474030790199-6ci04b3gdh5k7m6kmag197mk85s2bu96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKAJUYUGbcbcjmTtRwodpuaCerAVRYCHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474030790199-6ci04b3gdh5k7m6kmag197mk85s2bu96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
