@@ -7,41 +7,44 @@
     tools:context=".HomeActivity">
 
     <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="337dp"
-        android:layout_height="305dp"
-        android:layout_marginTop="100dp"
+        android:id="@+id/imgView1"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="200dp"
+        android:src="@drawable/meditation2"
 
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/txtGreetings1"
         tools:srcCompat="@tools:sample/avatars" />
 
     <TextView
-        android:id="@+id/txtGreetings"
-        android:layout_width="275dp"
+        android:id="@+id/txtGreetings1"
+        android:layout_width="match_parent"
         android:layout_height="35dp"
         android:layout_marginTop="20dp"
         android:gravity="center"
-        android:text="A more mindful you"
+        android:text="@string/greetingsText1_Home"
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textSize="27.5sp"
 
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+        app:layout_constraintTop_toBottomOf="@+id/imgView1"
+        app:layout_constraintBottom_toTopOf="@id/txtGreetings2" />
 
     <TextView
-        android:id="@+id/textView"
-        android:layout_width="304dp"
+        android:id="@+id/txtGreetings2"
+        android:layout_width="match_parent"
         android:layout_height="30dp"
         android:gravity="center"
-        android:text="building your meditation experience"
+        android:text="@string/greetingsText2_Home"
         android:textAlignment="center"
 
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/txtGreetings" />
+        app:layout_constraintTop_toBottomOf="@+id/txtGreetings1" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

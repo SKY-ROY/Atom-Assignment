@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">AtomAssignment</string>
+    <string name="greetingsText1_Home">A more mindful you</string>
+    <string name="greetingsText2_Home">building your meditation experience</string>
+    <string name="promptQuestion_Registration">Hi, What do your friends call you?</string>
+    <string name="edtPlaceHolder_Registration">Enter Name</string>
+    <string name="buttonText_Registration">continue</string>
+    <string name="agreeTOS_Login">By creating an account you agree to our Terms of Service and Privacy Policy</string>
+    <string name="buttonText2_Login">Continue as Guest</string>
+    <string name="buttonText1_Login">Continue with Google</string>
+    <string name="greetingsText1_Login">Make meditation a habit you love</string>
 </resources>
