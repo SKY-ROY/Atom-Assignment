@@ -45,6 +45,7 @@
         android:text="@string/buttonText1_Login"
         android:textAllCaps="false"
         android:onClick="continueWithGoogle"
+        android:textColor="@color/black"
 
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
@@ -60,6 +61,7 @@
         android:text="@string/buttonText2_Login"
         android:textAllCaps="false"
         android:onClick="continueAsGuest"
+        android:textColor="@color/black"
 
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
