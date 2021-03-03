@@ -5,3 +5,4 @@
  <li><a href="https://github.com/SKY-ROY/Atom-Assignment/blob/main/app/src/main/java/com/askyr/atomassignment/RegistrationActivity.java">RegistrationActivity</a></li>
  <li><a href="https://github.com/SKY-ROY/Atom-Assignment/blob/main/app/src/main/java/com/askyr/atomassignment/HomeActivity.java">HomeActivity</a></li>
  </ol>
+ <p>Project failed.</p>
